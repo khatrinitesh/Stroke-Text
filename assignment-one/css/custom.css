@@ -1,0 +1,27 @@
+*{
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+ul{
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+ul li{
+	display: inline-block;
+}
+
+.banner{
+	padding: 50px 0;
+	background-color: #ccc;
+	text-align: center;
+}
+
+.banner p{
+	-webkit-text-stroke: 2px red;
+}
